@@ -54,7 +54,7 @@ Through this project, I improved my skills in:
 Day by day, I am improving my analytical skills and learning how to convert raw data into meaningful business insights.
 
 ## 📷 Dashboard Preview
-![HR Analytics Dashboard](HR Analyst/dashboard.png)
+![HR Analytics Dashboard](dashboard.png)
 
 ## 📬 Feedback
 
